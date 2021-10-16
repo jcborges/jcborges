@@ -5,6 +5,8 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [#2 LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](/blog/2021/10/15/latentclr.html)
+- [#1 Toward a Visual Concept Vocabulary for GAN Latent Space](/blog/2021/10/14/gan-vocabulary.html)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
