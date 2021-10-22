@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Julio Borges</h1>
 <h3 align="center">Research Engineer for Data Efficient Deep Learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jcborges&label=Profile%20views&color=0e75b6&style=flat" alt="jcborges" /> </p>
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [#3 GANSpace: Discovering Interpretable GAN Controls](https://julioborges.de/blog/2021/10/20/ganspace.html)
 - [#2 LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](https://julioborges.de/blog/2021/10/15/latentclr.html)
 - [#1 Toward a Visual Concept Vocabulary for GAN Latent Space](https://julioborges.de/blog/2021/10/14/gan-vocabulary.html)
 <!-- BLOG-POST-LIST:END -->
