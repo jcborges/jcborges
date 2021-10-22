@@ -2,7 +2,7 @@
 <h3 align="center">Research Engineer for Data Efficient Deep Learning</h3>
 
 
-### Blogs posts
+### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [#3 GANSpace: Discovering Interpretable GAN Controls](https://julioborges.de/blog/2021/10/20/ganspace.html)
 - [#2 LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](https://julioborges.de/blog/2021/10/15/latentclr.html)
