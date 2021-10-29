@@ -4,6 +4,7 @@
 
 ### 📕 Latest Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [#4 WarpedGANSpace: Finding non-linear RBF paths in GAN latent space](https://julioborges.de/blog/2021/10/28/warpedganspace.html)
 - [#3 GANSpace: Discovering Interpretable GAN Controls](https://julioborges.de/blog/2021/10/20/ganspace.html)
 - [#2 LatentCLR: A Contrastive Learning Approach for Unsupervised Discovery of Interpretable Directions](https://julioborges.de/blog/2021/10/15/latentclr.html)
 - [#1 Toward a Visual Concept Vocabulary for GAN Latent Space](https://julioborges.de/blog/2021/10/14/gan-vocabulary.html)
