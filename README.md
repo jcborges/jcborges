@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Julio Borges</h1>
-<h3 align="center">Research Engineer for Data Efficient Deep Learning</h3>
+<h3 align="center">Research Engineer for Generalization in Deep Learning</h3>
 
 
 
